@@ -1,0 +1,106 @@
+{
+    "overall_audio_analysis": {
+        "audio_quality": {
+            "description": "No response provided.",
+            "score": 0
+        },
+        "background_noise_impact": {
+            "description": "No response provided.",
+            "score": 0
+        },
+        "confidence": {
+            "description": "No response provided.",
+            "score": 0
+        },
+        "speech_pace": {
+            "description": "No response provided.",
+            "score": 0
+        },
+        "tone": {
+            "description": "No response provided.",
+            "score": 0
+        }
+    },
+    "overall_emotional_analysis": {
+        "emotional_consistency": {
+            "description": "No response provided.",
+            "score": 0
+        },
+        "primary_emotions": []
+    },
+    "overall_non_verbal_communication": {
+        "body_language": {
+            "description": "No response provided.",
+            "score": 0
+        },
+        "eye_contact": {
+            "description": "No response provided.",
+            "score": 0
+        },
+        "facial_expressions": {
+            "description": "No response provided.",
+            "score": 0
+        }
+    },
+    "overall_performance": {
+        "overall_score": 0,
+        "summary": {
+            "areas_for_improvement": "No response provided.",
+            "strengths": "No response provided."
+        }
+    },
+    "overall_speech_content_analysis": {
+        "clarity": {
+            "description": "No response provided.",
+            "score": 0
+        },
+        "coherence": {
+            "description": "No response provided.",
+            "score": 0
+        },
+        "completeness": {
+            "description": "No response provided.",
+            "score": 0
+        },
+        "per_question_feedback": {
+            "question_1": {
+                "feedback": "No response provided.",
+                "score": 0
+            },
+            "question_2": {
+                "feedback": "No response provided.",
+                "score": 0
+            },
+            "question_3": {
+                "feedback": "No response provided.",
+                "score": 0
+            },
+            "question_4": {
+                "feedback": "No response provided.",
+                "score": 0
+            },
+            "question_5": {
+                "feedback": "No response provided.",
+                "score": 0
+            }
+        },
+        "relevance": {
+            "description": "No response provided.",
+            "score": 0
+        }
+    },
+    "questions": {
+        "question_1": "Describe your experience in developing and deploying AI models.",
+        "question_2": "What AI model architectures have you worked with (e.g., CNNs, RNNs, Transformers)?",
+        "question_3": "Describe a time you had to debug a complex AI model. How did you approach the problem?",
+        "question_4": "Tell me about a situation where you had to explain a complex technical concept to a non-technical audience.",
+        "question_5": "What aspects of AI model development are you most passionate about?"
+    },
+    "transcriptions": {
+        "question_1": "No response provided.",
+        "question_2": "No response provided.",
+        "question_3": "No response provided.",
+        "question_4": "No response provided.",
+        "question_5": "No response provided."
+    }
+}

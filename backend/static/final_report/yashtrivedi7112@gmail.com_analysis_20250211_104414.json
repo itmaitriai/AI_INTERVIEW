@@ -1,0 +1,106 @@
+{
+    "overall_audio_analysis": {
+        "audio_quality": {
+            "description": "Audio quality is poor, with significant background noise and muffled speech.  The signal-to-noise ratio is low, making parts of the response inaudible.",
+            "score": 3
+        },
+        "background_noise_impact": {
+            "description": "Excessive background noise makes it difficult to understand the candidate's responses.",
+            "score": 2
+        },
+        "confidence": {
+            "description": "Low confidence in transcription due to poor audio quality.",
+            "score": 2
+        },
+        "speech_pace": {
+            "description": "Speech pace is too fast and inconsistent, affecting intelligibility.",
+            "score": 3
+        },
+        "tone": {
+            "description": "The tone is mostly neutral but difficult to assess accurately because of the low audio quality.",
+            "score": 2
+        }
+    },
+    "overall_emotional_analysis": {
+        "emotional_consistency": {
+            "description": "Difficult to assess emotional consistency due to poor audio and video quality and frequent interruptions.",
+            "score": 0
+        },
+        "primary_emotions": []
+    },
+    "overall_non_verbal_communication": {
+        "body_language": {
+            "description": "Body language is partially visible, but not sufficient for reliable assessment due to camera angle and lighting. The candidate is mostly still, with few observable gestures.",
+            "score": 2
+        },
+        "eye_contact": {
+            "description": "Eye contact cannot be reliably assessed due to camera angle.",
+            "score": 0
+        },
+        "facial_expressions": {
+            "description": "Facial expressions are somewhat visible; however, limited visibility and poor lighting conditions make a detailed analysis challenging. ",
+            "score": 2
+        }
+    },
+    "overall_performance": {
+        "overall_score": 2.33,
+        "summary": {
+            "areas_for_improvement": "The candidate needs to improve audio quality significantly to ensure clear communication. A better camera angle showing more of the upper body and face and proper lighting conditions are essential. The candidate also needs to moderate their speech pace and ensure clear pronunciation.",
+            "strengths": "The candidate attempts to answer all the questions, demonstrating their willingness to participate. "
+        }
+    },
+    "overall_speech_content_analysis": {
+        "clarity": {
+            "description": "Clarity is low due to speech pace, pronunciation, and poor audio.",
+            "score": 3
+        },
+        "coherence": {
+            "description": "Coherence is also affected by poor audio; responses are fragmented and difficult to follow.",
+            "score": 2
+        },
+        "completeness": {
+            "description": "Responses to most questions are incomplete because of poor audio and frequent interruptions. ",
+            "score": 3
+        },
+        "per_question_feedback": {
+            "question_1": {
+                "feedback": "No response provided.",
+                "score": 0
+            },
+            "question_2": {
+                "feedback": "No response provided.",
+                "score": 0
+            },
+            "question_3": {
+                "feedback": "Partial response;  details are unclear due to audio problems.",
+                "score": 2
+            },
+            "question_4": {
+                "feedback": "No response provided.",
+                "score": 0
+            },
+            "question_5": {
+                "feedback": "No response provided.",
+                "score": 0
+            }
+        },
+        "relevance": {
+            "description": "Relevance is difficult to assess accurately due to the incomprehensible nature of the responses.",
+            "score": 2
+        }
+    },
+    "questions": {
+        "question_1": "Describe your experience with Python libraries used in machine learning (e.g., NumPy, Pandas, Scikit-learn).",
+        "question_2": "What machine learning algorithms are you most familiar with, and have you implemented them in Python?",
+        "question_3": "Describe a time you faced a challenging technical problem while working with Python and AI/ML. How did you overcome it?",
+        "question_4": "Tell me about a time you had to explain a complex technical concept to a non-technical audience.",
+        "question_5": "What aspects of working in a fast-paced AI/ML environment appeal to you?"
+    },
+    "transcriptions": {
+        "question_1": "No response provided.",
+        "question_2": "No response provided.",
+        "question_3": "partial response [unclear] [unclear] fifteen second [unclear] [unclear] [unclear] [unclear] [unclear] solve [unclear] [unclear] mapping [unclear] issue. Confidence:Low",
+        "question_4": "No response provided.",
+        "question_5": "No response provided."
+    }
+}

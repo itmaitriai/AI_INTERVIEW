@@ -1,0 +1,108 @@
+{
+    "overall_audio_analysis": {
+        "audio_quality": {
+            "description": "Audio quality is fair.  Speech is understandable but has some background noise and occasional muffled sections.",
+            "score": 6
+        },
+        "background_noise_impact": {
+            "description": "Moderate background noise present, but it does not fully obscure speech.",
+            "score": 5
+        },
+        "confidence": {
+            "description": "Medium confidence in the transcription due to the presence of some unclear segments.",
+            "score": 5
+        },
+        "speech_pace": {
+            "description": "Speech pace is appropriate.",
+            "score": 8
+        },
+        "tone": {
+            "description": "The tone is generally professional, but there is a slight lack of enthusiasm.",
+            "score": 7
+        }
+    },
+    "overall_emotional_analysis": {
+        "emotional_consistency": {
+            "description": "Emotional cues are inconsistent due to the audio quality. There are moments where the audio is unclear and the facial expressions are hard to interpret. ",
+            "score": 3
+        },
+        "primary_emotions": [
+            "Neutral"
+        ]
+    },
+    "overall_non_verbal_communication": {
+        "body_language": {
+            "description": "Body language is somewhat limited due to the video angle; however, candidate shows some signs of engagement during responses.",
+            "score": 4
+        },
+        "eye_contact": {
+            "description": "Eye contact is partially visible and appears to be fairly consistent when observable.",
+            "score": 5
+        },
+        "facial_expressions": {
+            "description": "Facial expressions are partially visible and mostly neutral.  The quality prevents a more detailed analysis.",
+            "score": 4
+        }
+    },
+    "overall_performance": {
+        "overall_score": 5.1,
+        "summary": {
+            "areas_for_improvement": "Improve audio quality by using a noise-canceling microphone and a quieter environment. Increase engagement and expressiveness to enhance the clarity of non-verbal communication. Improve lighting to improve the visual quality.",
+            "strengths": "The candidate's responses generally address the questions comprehensively, showing some understanding of Python libraries and AI/ML concepts."
+        }
+    },
+    "overall_speech_content_analysis": {
+        "clarity": {
+            "description": "Clarity of speech is moderate, with some sections being unclear or muffled.",
+            "score": 6
+        },
+        "coherence": {
+            "description": "Responses are somewhat coherent, but the flow is occasionally disrupted by the audio quality.",
+            "score": 6
+        },
+        "completeness": {
+            "description": "Responses are generally complete, but some details are missing due to unclear segments.",
+            "score": 7
+        },
+        "per_question_feedback": {
+            "question_1": {
+                "feedback": "The candidate mentions using libraries like NumPy, Pandas, and Scikit-learn, demonstrating a basic understanding.",
+                "score": 7
+            },
+            "question_2": {
+                "feedback": "The candidate's answer is partially audible and mentions some algorithms but lacks specific details on implementation.",
+                "score": 4
+            },
+            "question_3": {
+                "feedback": "The response is partially unclear and does not sufficiently demonstrate how technical problems were overcome.",
+                "score": 4
+            },
+            "question_4": {
+                "feedback": "The answer is somewhat coherent, but there isn't much detail provided.",
+                "score": 5
+            },
+            "question_5": {
+                "feedback": "The response is partially audible and incomplete, hence a detailed assessment is difficult.",
+                "score": 3
+            }
+        },
+        "relevance": {
+            "description": "The candidate's responses are mostly relevant to the questions asked.",
+            "score": 8
+        }
+    },
+    "questions": {
+        "question_1": "Describe your experience with Python libraries used in machine learning (e.g., NumPy, Pandas, Scikit-learn).",
+        "question_2": "What machine learning algorithms are you most familiar with, and have you implemented them in Python?",
+        "question_3": "Describe a time you faced a challenging technical problem while working with Python and AI/ML. How did you overcome it?",
+        "question_4": "Tell me about a time you had to explain a complex technical concept to a non-technical audience.",
+        "question_5": "What aspects of working in a fast-paced AI/ML environment appeal to you?"
+    },
+    "transcriptions": {
+        "question_1": "The different libraries I have used in machine learning are [unclear].",
+        "question_2": "Different algorithms like [unclear] I have used in Python to build some linear regression models.",
+        "question_3": "I faced multiple challenges like building due to some improper dataset, [unclear].",
+        "question_4": "In order to show the non-technical, I will give flowchart in clear details, such that [unclear] how the programming can be built and how the functionality will work.",
+        "question_5": "Getting some latest technology involved into the daily articles."
+    }
+}

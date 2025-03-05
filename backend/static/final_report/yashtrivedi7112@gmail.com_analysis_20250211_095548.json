@@ -1,0 +1,106 @@
+{
+    "overall_audio_analysis": {
+        "audio_quality": {
+            "description": "The audio quality is poor. There is significant background noise and the speaker's voice is not always clear.  There are moments of distortion and variations in volume.",
+            "score": 3
+        },
+        "background_noise_impact": {
+            "description": "Background noise significantly impacts intelligibility.  The noise level is often moderate to excessive, making it difficult to understand the speaker at times.",
+            "score": 2
+        },
+        "confidence": {
+            "description": "Confidence in the transcriptions is low due to the poor audio quality.",
+            "score": 2
+        },
+        "speech_pace": {
+            "description": "Speech pace is generally appropriate, but the poor audio makes it difficult to judge definitively.",
+            "score": 4
+        },
+        "tone": {
+            "description": "The speaker's tone is generally serious and focused on providing technical details, although emotional cues are difficult to assess because of poor audio quality.",
+            "score": 3
+        }
+    },
+    "overall_emotional_analysis": {
+        "emotional_consistency": {
+            "description": "Emotional analysis is unreliable due to poor audio and video quality. The video provides little insight into facial expressions.",
+            "score": 0
+        },
+        "primary_emotions": []
+    },
+    "overall_non_verbal_communication": {
+        "body_language": {
+            "description": "Body language is largely unobservable. The video is unstable, and the view is frequently obstructed and very low resolution.",
+            "score": 0
+        },
+        "eye_contact": {
+            "description": "Eye contact cannot be reliably assessed due to poor video quality and frequent camera movement.",
+            "score": 0
+        },
+        "facial_expressions": {
+            "description": "Facial expressions are difficult to evaluate due to poor video quality and lighting.  The resolution is too low to provide a reliable assessment.",
+            "score": 0
+        }
+    },
+    "overall_performance": {
+        "overall_score": 2.2,
+        "summary": {
+            "areas_for_improvement": "The audio and video quality significantly hampered the evaluation.  Significant improvements in recording equipment and setup are needed to enable accurate assessment. The background noise needs to be minimized, and a stable, clear video feed with good lighting is crucial. Better microphone placement will make the recording much clearer.",
+            "strengths": "Despite the technical challenges, the candidate attempted to answer all the questions. The content of the responses, while partially obscured, indicates a foundational knowledge of AI model development."
+        }
+    },
+    "overall_speech_content_analysis": {
+        "clarity": {
+            "description": "Clarity is poor in many segments due to background noise and audio distortion.",
+            "score": 3
+        },
+        "coherence": {
+            "description": "The coherence is partially affected by the audio quality. Some sections are difficult to follow due to unclear speech.",
+            "score": 4
+        },
+        "completeness": {
+            "description": "The completeness of the answers is only partially available because of the poor quality of the audio; responses are incomplete in many sections.",
+            "score": 3
+        },
+        "per_question_feedback": {
+            "question_1": {
+                "feedback": "The response regarding AI model development experience is partially clear, but significant portions are incomprehensible due to audio issues.",
+                "score": 3
+            },
+            "question_2": {
+                "feedback": "The candidate mentioned working with CNNs and RNNs, but the details are unclear due to poor audio.",
+                "score": 2
+            },
+            "question_3": {
+                "feedback": "The description of debugging is fragmented and hard to understand due to the low audio quality.",
+                "score": 2
+            },
+            "question_4": {
+                "feedback": "The response about explaining technical concepts to a non-technical audience is partially audible, but a substantial portion is incomprehensible.",
+                "score": 2
+            },
+            "question_5": {
+                "feedback": "No response provided due to audio limitations.",
+                "score": 0
+            }
+        },
+        "relevance": {
+            "description": "The relevance of the responses is difficult to fully ascertain because of the significant audio quality issues.",
+            "score": 3
+        }
+    },
+    "questions": {
+        "question_1": "Describe your experience in developing and deploying AI models.",
+        "question_2": "What AI model architectures have you worked with (e.g., CNNs, RNNs, Transformers)?",
+        "question_3": "Describe a time you had to debug a complex AI model. How did you approach the problem?",
+        "question_4": "Tell me about a situation where you had to explain a complex technical concept to a non-technical audience.",
+        "question_5": "What aspects of AI model development are you most passionate about?"
+    },
+    "transcriptions": {
+        "question_1": "I have been working with various models like RNN, CNN and mostly used for AI interview to make the project more efficient and beneficial for [inaudible] [Low confidence]",
+        "question_2": "Mostly I have used CNNs for road tracking and highway tracking to detect the vehicles and give to the database and detect by the YOLO models to make it efficient and very much [inaudible] [Low confidence]",
+        "question_3": "During the AI interviewer there was a mostly a fault in the general prompt and the system prompt I have redefined the code and make by the using of logging to debug the entire code [Low confidence]",
+        "question_4": "During the waste management system there was a huge concept to explain the non-technical team that it has to be very much accurate and make it understandable to situations [Low confidence]",
+        "question_5": "There are various models of AI mostly the YOLO model that gives me very much boost to work with and media pipe for face detections [Low confidence]"
+    }
+}
